@@ -12,6 +12,10 @@
 --When the player turns on the game a message appears on screen telling him to choose rock, paper or scissors.<br/>
 --When the player chooses an option (by pressing one of the buttons), the Mega randomly chooses and option too.<br/>
 --A message is diplayed on the OLED screen, which indicates what the Mega chose and if the player has won or not.<br/>
---When the **START** button is pressed again the game is restarted.
+--When the **START** button is pressed again the game is restarted.<br/>
 
-## This is a work in progress.
+# -Versions:
+--**v2.0** - Full Rock Paper Scissors gameplay, booting display + test message. <br/>
+--**v3.0** - Fixed bugs related to button presses (INPUT_PULLUP), added fully working display messages for all 3 states: **GAME_START**, **WAITING_FOR_PLAYER_CHOICE**, **SHOW_RESULT**. <br/>
+
+### This is a work in progress.
