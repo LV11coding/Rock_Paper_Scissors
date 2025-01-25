@@ -17,5 +17,10 @@
 # -Versions:
 --**v2.0** - Full Rock Paper Scissors gameplay, booting display + test message. <br/>
 --**v3.0** - Fixed bugs related to button presses (INPUT_PULLUP), added fully working display messages for all 3 states: **GAME_START**, **WAITING_FOR_PLAYER_CHOICE**, **SHOW_RESULT**. <br/>
+--**v4.0(ALPHA)** - All bugs fixed, fixed and improved screen messages, added LEDs functions for **rock**, **paper**, **scissors** and **START** button, fixed soldiering issues and some short circuits, put everything inside of the box.<br/>
 
-### This is a work in progress.
+# -To-Do:
+--Merge code for the speaker and music with the current code. <br/>
+--Fix speaker amplifier. <br/>
+
+### ALPHA code launched.
